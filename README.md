@@ -2,7 +2,7 @@
 
 ## Preview
 
-![Amazon Prime Video Dashboard Preview](https://github.com/minhaj-313/Amazon-Prime-Video-Dashboard-Using-PowerBi/blob/main/Amazon%20Prime%20Video%20Dashboard%20by%20Shaikh%20Minhaj.png)
+![Amazon Prime Video Dashboard Preview](https://github.com/DeepikaElsa/PowerBI/blob/main/Amazon%20Prime%20Video%20Dashboard.png)
 
 ## Overview
 
@@ -25,6 +25,4 @@ To explore the dashboard:
 3. Open `Amazon_Prime_Video_Dashboard.pbix` with Power BI.
 4. Interact with the dashboard.
 
-## Contact
 
-For inquiries and collaborations, feel free to reach out to sdeminhaj@gmail.com.
