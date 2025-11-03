@@ -2,7 +2,7 @@
 
 ## Preview
 
-![Amazon Prime Video Dashboard Preview](https://github.com/DeepikaElsa/PowerBI/blob/main/Amazon%20Prime%20Video%20Dashboard.png)
+![Amazon Prime Video Dashboard Preview]([https://github.com/DeepikaElsa/PowerBI/blob/main/Amazon%20Prime%20Video%20Dashboard.png](https://github.com/DeepikaElsa/PowerBI/blob/main/1.jpg))
 
 ## Overview
 
