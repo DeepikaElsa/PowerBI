@@ -1,8 +1,5 @@
 # Amazon Prime Video Dashboard using Power BI
 
-## Preview
-
-![Amazon Prime Video Dashboard Preview]((https://github.com/DeepikaElsa/PowerBI/blob/main/1.jpg))
 
 ## Overview
 
